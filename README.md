@@ -39,7 +39,7 @@ Quiz Quest is an interactive Java-based quiz application built with Swing and AW
 2. MySQL Database (via XAMPP or MySQL Server)
 3. json.jar for JSON parsing
 
-### 2️⃣ Database Setup (MySQL)
+### 2️⃣ Database Setup (MySQL) 📂
 
 #### Run the following SQL commands in MySQL to set up the database:
 
@@ -71,3 +71,11 @@ CREATE TABLE users (
 2. Right-click the project → Properties → Libraries → Add JAR/Folder.
 3. Select json.jar and click OK.
 4. Run Login.java.
+
+## Screenshots 📸
+
+### 🎮 Login Page
+
+## License 📚
+
+This project is open-source under the MIT License.
