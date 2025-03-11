@@ -26,52 +26,52 @@ Quiz Quest is an interactive Java-based quiz application built with Swing and AW
 ### 1️⃣ Login.java (User Authentication Page)
 1. Purpose: This is the entry point of the quiz application where users enter their name to start the quiz.
 2. Key Features:
-    1. Allows users to enter their name.
-    2. Provides buttons to navigate to rules, leaderboard, or exit the application.
+    1. ✅ Allows users to enter their name.
+    2. ✅ Provides buttons to navigate to rules, leaderboard, or exit the application.
 
 ### 2️⃣ Profile.java (User Profile Page)
-🔹 Purpose: This page collects additional user details like age, email, and contact number before starting the quiz.
-🔹 Key Features:
-✅ Takes name, age, email, and contact number as input.
-✅ Stores user data in the MySQL database using JDBC.
-✅ Redirects users to the Rules page after saving the profile.
+1. Purpose: This page collects additional user details like age, email, and contact number before starting the quiz.
+2. Key Features:
+    1. ✅ Takes name, age, email, and contact number as input.
+    2. ✅ Stores user data in the MySQL database using JDBC.
+    3. ✅ Redirects users to the Rules page after saving the profile.
 
 ### 3️⃣ Rules.java (Quiz Instructions Page)
-🔹 Purpose: Displays the quiz rules and guidelines before users start the quiz.
-🔹 Key Features:
-✅ Lists important quiz rules like time limits and scoring.
-✅ Provides a "Start Quiz" button to begin the quiz.
+1. Purpose: Displays the quiz rules and guidelines before users start the quiz.
+2. Key Features:
+    1. ✅ Lists important quiz rules like time limits and scoring.
+    2. ✅ Provides a "Start Quiz" button to begin the quiz.
 
 ### 4️⃣ Quiz.java (Main Quiz Page)
-🔹 Purpose: This is the core quiz interface where users answer multiple-choice questions.
-🔹 Key Features:
-✅ Displays questions and four options dynamically.
-✅ Implements a timer for each question.
-✅ Provides navigation buttons:
-- Next → Moves to the next question.
-- 50-50 Lifeline → Removes two incorrect options.
-- Submit → Finishes the quiz and redirects to the Score page.
+1. Purpose: This is the core quiz interface where users answer multiple-choice questions.
+2. Key Features:
+    1. ✅ Displays questions and four options dynamically.
+    2. ✅ Implements a timer for each question.
+    3. ✅ Provides navigation buttons:
+        - Next → Moves to the next question.
+        - 50-50 Lifeline → Removes two incorrect options.
+        - Submit → Finishes the quiz and redirects to the Score page.
 
 ### 5️⃣ Score.java (Results Page)
-🔹 Purpose: Displays the final quiz score after the user submits their answers.
-🔹 Key Features:
-✅ Shows a thank you message along with the final score.
-✅ Provides a "Play Again" button to restart the quiz.
-✅ Saves the score in the MySQL leaderboard database using JDBC.
+1. Purpose: Displays the final quiz score after the user submits their answers.
+2. Key Features:
+    1. ✅ Shows a thank you message along with the final score.
+    2. ✅ Provides a "Play Again" button to restart the quiz.
+    3. ✅ Saves the score in the MySQL leaderboard database using JDBC.
 
 ### 6️⃣ Leaderboard.java (Top Scores Page)
-🔹 Purpose: Displays the top 10 highest scores from the database.
-🔹 Key Features:
-✅ Fetches and displays the top 10 highest scores from MySQL.
-✅ Includes a text field where users can enter their name to check their quiz history.
-✅ Provides a "View Quiz History" button to check past scores.
+1. Purpose: Displays the top 10 highest scores from the database.
+2. Key Features:
+    1. ✅ Fetches and displays the top 10 highest scores from MySQL.
+    2. ✅ Includes a text field where users can enter their name to check their quiz history.
+    3. ✅ Provides a "View Quiz History" button to check past scores.
 
 ### 7️⃣ QuizHistory.java (User's Past Quiz Scores)
-🔹 Purpose: Shows a history of previous quiz scores for a specific user.
-🔹 Key Features:
-✅ Fetches all past scores from MySQL for the entered username.
-✅ Displays scores in a scrollable text area.
-✅ Provides a "Back" button to return to the Leaderboard page.
+1. Purpose: Shows a history of previous quiz scores for a specific user.
+2. Key Features:
+    1. ✅ Fetches all past scores from MySQL for the entered username.
+    2. ✅ Displays scores in a scrollable text area.
+    3. ✅ Provides a "Back" button to return to the Leaderboard page.
 
 ## Installation & Setup 💻
 
