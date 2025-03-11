@@ -8,6 +8,20 @@ Quiz Quest is an interactive Java-based quiz application built with Swing and AW
 3. [Mitali Chaudhari](https://github.com/Kritansh-Tank) - PRN: 2143110046, Roll No: 09
 4. [Rohan Singh](https://github.com/Kritansh-Tank) - PRN: 2143110044, Roll No: 10
 
+## Project Requirements & Implementation
+
+### Required (as per instructor)
+
+1. Preferred IDE: NetBeans
+2. Minimum: 6 JFrame Pages
+3. Concepts to be covered: JDBC, AWT, Swingx
+
+### Implemented in this Project
+
+1. Software Used: NetBeans IDE
+2. Implemented: 7 JFrame Pages
+3. Concepts Covered: JDBC, AWT, Swingx
+
 ## Features 🚀
 
 1. ✅ Leaderboard System (Stores top scores using MySQL)
@@ -19,9 +33,41 @@ Quiz Quest is an interactive Java-based quiz application built with Swing and AW
 
 ### 1️⃣ Prerequisites
 
-Ensure you have:
+#### Ensure you have:
 
 1. Java JDK (11 or higher)
 2. MySQL Database (via XAMPP or MySQL Server)
 3. json.jar for JSON parsing
 
+### 2️⃣ Database Setup (MySQL)
+
+#### Run the following SQL commands in MySQL to set up the database:
+
+``` 
+CREATE DATABASE quizdb;
+USE quizdb;
+
+CREATE TABLE leaderboard (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    score INT NOT NULL,
+    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    age INT NOT NULL,
+    email VARCHAR(100) NOT NULL,
+    contact VARCHAR(15) NOT NULL
+);
+```
+
+### 3️⃣ Project Setup 🛠️
+
+#### For NetBeans
+
+1. Open NetBeans → File → Open Project → Select Folder.
+2. Right-click the project → Properties → Libraries → Add JAR/Folder.
+3. Select json.jar and click OK.
+4. Run Login.java.
