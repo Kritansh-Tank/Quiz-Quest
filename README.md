@@ -74,9 +74,17 @@ CREATE TABLE users (
 
 ![Quiz Interface](https://drive.google.com/uc?id=1gfNDfe7OhKRTQoNTKehcdYkldHcUbn15)
 
+### 🎮 Results
+
+![Quiz Interface](https://drive.google.com/uc?id=1ZQZIOTS9a5R-G1gXvCrhUXEQJeyarwyQ)
+
 ### 🏆 Leaderboard
 
 ![Leaderboard](https://drive.google.com/uc?id=145K14IyS8Z_rPYA49iBImQPPq3B3GE6E)
+
+### ❓ Personalized History
+
+![Leaderboard](https://drive.google.com/uc?id=1qari8pMmHSRyX1gpgJEbEZe-ezmPGsF2)
 
 ## License 📚
 
