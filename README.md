@@ -8,7 +8,7 @@ Quiz Quest is an interactive Java-based quiz application built with Swing and AW
 3. [Mitali Chaudhari](https://github.com/Kritansh-Tank) - PRN: 2143110046, Roll No: 09
 4. [Rohan Singh](https://github.com/Kritansh-Tank) - PRN: 2143110044, Roll No: 10
 
-## Project Implementation
+## Project Details
 
 1. Software Used: NetBeans IDE
 2. Implemented: 7 JFrame Pages
