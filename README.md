@@ -75,7 +75,7 @@ Quiz Quest is an interactive Java-based quiz application built with Swing and AW
 
 ## Installation & Setup 💻
 
-### 1️⃣ Prerequisites 📦
+### 1️⃣ 📦 Prerequisites
 
 #### Ensure you have:
 
@@ -83,7 +83,7 @@ Quiz Quest is an interactive Java-based quiz application built with Swing and AW
 2. MySQL Database (via XAMPP or MySQL Server)
 3. json.jar for JSON parsing
 
-### 2️⃣ Database Setup (MySQL) 📂
+### 2️⃣ 📂 Database Setup (MySQL) 
 
 #### Run the following SQL commands in MySQL to set up the database:
 
@@ -107,7 +107,7 @@ CREATE TABLE users (
 );
 ```
 
-### 3️⃣ Project Setup 🛠️
+### 3️⃣ 🛠️ Project Setup 
 
 #### For NetBeans
 
