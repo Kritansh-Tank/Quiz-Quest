@@ -1,14 +1,14 @@
 # Quiz Quest - Java Quiz Application 🎯
 Quiz Quest is an interactive Java-based quiz application built with Swing and AWT. It features a profile system, leaderboard, and quiz history to track user progress. This project was developed as part of Project-Based Learning (PBL) for CSE Skill Lab V by a team of four members.
 
-## Team Members
+## Team Members 👨‍💻
 
 1. [Kritansh Tank](https://github.com/Kritansh-Tank) - PRN: 2143110058, Roll No: 07 
 2. [Ujjwal Singh](https://github.com/Kritansh-Tank) - PRN: 2143110035, Roll No: 08
 3. [Mitali Chaudhari](https://github.com/Kritansh-Tank) - PRN: 2143110046, Roll No: 09
 4. [Rohan Singh](https://github.com/Kritansh-Tank) - PRN: 2143110044, Roll No: 10
 
-## Project Details
+## Project Details 📌
 
 1. Software Used: NetBeans IDE
 2. Implemented: 7 JFrame Pages
@@ -21,7 +21,7 @@ Quiz Quest is an interactive Java-based quiz application built with Swing and AW
 3. ✅ Quiz History (Tracks past scores)
 4. ✅ 50-50 Lifeline (Removes two incorrect options)
 
-## Purpose of Each Page
+## Purpose of Each Page 📄
 
 ### 1️⃣ Login.java (User Authentication Page)
 1. Purpose: This is the entry point of the quiz application where users enter their name to start the quiz.
@@ -75,7 +75,7 @@ Quiz Quest is an interactive Java-based quiz application built with Swing and AW
 
 ## Installation & Setup 💻
 
-### 1️⃣ Prerequisites
+### 1️⃣ Prerequisites 📦
 
 #### Ensure you have:
 
@@ -126,15 +126,15 @@ CREATE TABLE users (
 
 ![Quiz Interface](https://drive.google.com/uc?id=1gfNDfe7OhKRTQoNTKehcdYkldHcUbn15)
 
-### 🎮 Results
+### 🏆 Results
 
 ![Quiz Interface](https://drive.google.com/uc?id=1ZQZIOTS9a5R-G1gXvCrhUXEQJeyarwyQ)
 
-### 🏆 Leaderboard
+### 📊 Leaderboard
 
 ![Leaderboard](https://drive.google.com/uc?id=145K14IyS8Z_rPYA49iBImQPPq3B3GE6E)
 
-### ❓ Personalized History
+### 🕰️ Personalized History
 
 ![Leaderboard](https://drive.google.com/uc?id=1qari8pMmHSRyX1gpgJEbEZe-ezmPGsF2)
 
