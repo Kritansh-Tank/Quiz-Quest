@@ -68,6 +68,16 @@ CREATE TABLE users (
 
 ### 🎮 Login Page
 
+![Login Page](https://drive.google.com/uc?id=1HPRwcezdObM0z3ebSfi13hzTzQZaWmHW)
+
+### ❓ Quiz Interface
+
+![Quiz Interface](https://drive.google.com/uc?id=1gfNDfe7OhKRTQoNTKehcdYkldHcUbn15)
+
+### 🏆 Leaderboard
+
+![Leaderboard](https://drive.google.com/uc?id=145K14IyS8Z_rPYA49iBImQPPq3B3GE6E)
+
 ## License 📚
 
 This project is open-source under the MIT License.
