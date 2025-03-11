@@ -24,10 +24,10 @@ Quiz Quest is an interactive Java-based quiz application built with Swing and AW
 ## Purpose of Each Page
 
 ### 1️⃣ Login.java (User Authentication Page)
-🔹 Purpose: This is the entry point of the quiz application where users enter their name to start the quiz.
-🔹 Key Features:
-✅ Allows users to enter their name.
-✅ Provides buttons to navigate to rules, leaderboard, or exit the application.
+1. Purpose: This is the entry point of the quiz application where users enter their name to start the quiz.
+2. Key Features:
+    1. Allows users to enter their name.
+    2. Provides buttons to navigate to rules, leaderboard, or exit the application.
 
 ### 2️⃣ Profile.java (User Profile Page)
 🔹 Purpose: This page collects additional user details like age, email, and contact number before starting the quiz.
