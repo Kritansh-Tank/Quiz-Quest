@@ -12,7 +12,7 @@ Quiz Quest is an interactive Java-based quiz application built with Swing and AW
 
 1. Software Used: NetBeans IDE
 2. Implemented: 7 JFrame Pages
-3. Concepts Covered: JDBC, AWT, Swingx
+3. Concepts Covered: JDBC, AWT, Swing
 
 ## Features 🚀
 
