@@ -1,13 +1,6 @@
 # Quiz Quest - Java Quiz Application 🎯
 Quiz Quest is an interactive Java-based quiz application built with Swing and AWT. It features a profile system, leaderboard, and quiz history to track user progress. This project was developed as part of Project-Based Learning (PBL) for CSE Skill Lab V by a team of four members.
 
-## Team Members 👨‍💻
-
-1. Kritansh Tank - PRN: 2143110058, Roll No: 07 
-2. Ujjwal Singh - PRN: 2143110035, Roll No: 08
-3. Mitali Chaudhari - PRN: 2143110046, Roll No: 09
-4. Rohan Singh - PRN: 2143110044, Roll No: 10
-
 ## Project Details 📌
 
 1. Software Used: NetBeans IDE
